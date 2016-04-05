@@ -19,7 +19,7 @@ In this article we are going to illsture how to use the compiled.exe program.
 
 
 ### 1. Startup and Input data
-It is pretty easy to startup the ".exe" program. Please just double left-click the ".exe" file into the zip file.
+It is pretty easy to startup the ".exe" program. Please just double left-click the "Calculator.exe" file into the zip file.
 
 After it has started, a terminal windows has been showed on the windows, and you will see the usage instructions inside the terminal. Please just follow the instructions and input data by keyboard.(Please press Enter button on your keyboard each time after you finishing input one data)
 
